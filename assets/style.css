@@ -202,7 +202,7 @@ body{
 @media (max-width:720px){
   .hero-inner{flex-direction:column-reverse}
   .grid{grid-template-columns:1fr}
-  .hero-image img{width:140px;height:140px}
+  .hero-image img{width:140px;height:180px}
   .nav{display:none}
 }
 
