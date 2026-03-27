@@ -117,8 +117,8 @@ body{
   margin-right:0.6rem;
 }
 .hero-image img{
-  width:180px;
-  height:180px;
+  width:220px;
+  height:220px;
   object-fit:cover;
   border-radius:20px;
   border:1px solid rgba(11,18,32,0.04);
